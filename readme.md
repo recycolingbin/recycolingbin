@@ -27,23 +27,6 @@
 
 ---
 
-### 📊 Scoreboard (High Scores)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=recycolingbin&show_icons=true&theme=tokyonight&hide_border=true&title_color=F8EF02&icon_color=F8EF02" alt="GitHub Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recycolingbin&layout=compact&theme=tokyonight&hide_border=true&title_color=F8EF02" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📈 Activity Maze
 ![recycolingbin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=recycolingbin&theme=react-dark&hide_border=true&area=true&color=F8EF02)
 
